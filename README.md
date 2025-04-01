@@ -45,6 +45,6 @@ de Software centrandose más en la rama de Cyber Seguridad</h2>
 
 <br clear="both">
 
-![Snake animation](./dist/github-snake.svg)
+<img src="./dist/github-snake.svg" alt="Snake animation" />
 
 ###
