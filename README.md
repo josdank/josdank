@@ -45,6 +45,6 @@ de Software centrandose más en la rama de Cyber Seguridad</h2>
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/josdank/josdank/blob/main/snake.yml" alt="Snake animation" />
 
 ###
