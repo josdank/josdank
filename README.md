@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My nombre es desarrollador de Software centrandose más en la rama de Cyber Seguridad</h2>
+<h2 align="left">Hi 👋! My nombre es Eduard Lovato desarrollador 
+de Software centrandose más en la rama de Cyber Seguridad</h2>
 
 ###
 
