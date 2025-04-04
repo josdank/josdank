@@ -55,6 +55,5 @@
 
 ---
 
-### 🐍 Snake de mis contribuciones
 
 ![Snake animation](./dist/github-snake.svg)
