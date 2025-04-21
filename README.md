@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Mi nombre es Eduard Lovato, Soy Desarrollador de Software </h2>
+<h2 align="left">Hola 👋! Mi nombre es Eduard Lovato, Soy Desarrollador de Software </h2>
 
 ###
 
