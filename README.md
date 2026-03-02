@@ -61,4 +61,4 @@
 
 ---
 
-![Snake animation](https://github.com/josdank/josdank/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](./dist/github-snake.svg)
