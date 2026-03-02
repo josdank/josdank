@@ -3,8 +3,11 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=josdank&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josdank&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <!-- Estadísticas de actividad -->
+  <img src="https://github-readme-stats.vercel.app/api?username=josdank&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="Estadísticas de GitHub" />
+  
+  <!-- Lenguajes más usados -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josdank&layout=compact&langs_count=6&theme=dracula" height="150" alt="Lenguajes más usados" />
 </div>
 
 ###
@@ -42,8 +45,8 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
   </a>
   <a href="mailto:guerralovatojosue@hotmail.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0072C6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="outlook logo" />
-</a>
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0072C6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="outlook logo" />
+  </a>
   <a href="https://www.linkedin.com/in/Josue Guerra" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
@@ -55,5 +58,4 @@
 
 ---
 
-
-![Snake animation](./dist/github-snake.svg)
+![Snake animation](https://github.com/josdank/josdank/blob/output/github-contribution-grid-snake.svg)
