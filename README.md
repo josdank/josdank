@@ -2,19 +2,9 @@
 
 ###
 
-<div align="center">
-  <!-- Estadísticas de actividad -->
-  <img src="https://github-readme-stats.vercel.app/api?username=josdank&show_icons=true&include_all_commits=true&count_private=true&theme=dark" height="150" alt="Estadísticas de GitHub" />
-  
-  <!-- Lenguajes más usados -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josdank&layout=compact&langs_count=8&theme=dark" height="150" alt="Lenguajes más usados" />
-  
+<div align="center"> 
   <!-- Racha de contribuciones -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=josdank&theme=dark" height="150" alt="Racha de contribuciones" />
-  
-  <!-- Perfil resumido con GitHub Readme Stats -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josdank&theme=dark" height="150" alt="Resumen de perfil" />
-</div>
 
 ###
 
