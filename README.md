@@ -5,6 +5,7 @@
 <div align="center"> 
   <!-- Racha de contribuciones -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=josdank&theme=dark" height="150" alt="Racha de contribuciones" />
+</div>
 
 ###
 
